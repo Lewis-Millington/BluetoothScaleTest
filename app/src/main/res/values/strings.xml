@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Scale Bluetooth</string>
+    <string name="visible">Visible</string>
+    <string name="enable">Enable</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_off">turn off</string>
+    <string name="get_paired_devices">Get paired devices</string>
+    <string name="discoverable">discoverable</string>
+</resources>
